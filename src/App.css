@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+.user-info {
+  margin-top: 20px;
+}
+
+.user-info img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.error {
+  color: red;
+}
