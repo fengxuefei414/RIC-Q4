@@ -1,5 +1,7 @@
+
 {
-  "name": "my-app",
+  "homepage": "https://fengxuefei414.github.io/RIC-Q4",
+  "name": "ric-q4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
