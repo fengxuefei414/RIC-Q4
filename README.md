@@ -1,5 +1,5 @@
 # RIC-Q4
-"homepage": "https://<fengxuefei414>.github.io/<RIC-Q4>"
+"homepage": "https://fengxuefei414.github.io/RIC-Q4"
 
 # Getting Started with Create React App
 
