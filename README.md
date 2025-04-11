@@ -8,8 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
 
 
 ### `npm start`
